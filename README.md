@@ -1,4 +1,5 @@
-# Flutter mini project made for Dicoding submission
+# Renote - Note App 
+Flutter mini project made for Dicoding submission
 
 ## Getting Started
 
