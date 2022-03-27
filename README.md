@@ -1,6 +1,4 @@
-# renote
-
-A new Flutter project.
+# Flutter mini project made for Dicoding submission
 
 ## Getting Started
 
